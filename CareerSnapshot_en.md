@@ -14,7 +14,7 @@ Hi, I'm Damian Hog, a Fullstack Engineer based in Freiburg im Breisgau.
 - API design and implementation
 - DevOps and continuous integration/delivery
 - Docker administration
-- Software-Architecture
+- Software architecture
 
 ## 🚀 Work Experience
 
