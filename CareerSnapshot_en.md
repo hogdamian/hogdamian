@@ -49,7 +49,7 @@ Technologies Used:
 ---
 ### 09.2018 - 07.2021
 #### S. Siedle & Söhne Telefon- und Telegrafenwerke OHG
-**Apprenticeship IT Specialist **
+**Apprenticeship IT Specialist**
 - Digitized a previously manual process, creating a robust and user-friendly personality assessment application. The solution leveraged Javascript, HTML, and CSS to provide a modern interface, while also utilizing a powerful database to store and process data.
 - Developed and implemented a complex embedded software solution for a Cortex M0+ processor, showcasing advanced technical skills and the ability to work on challenging projects.
 - Designed and implemented a custom database structure to support the needs of the application, demonstrating expertise in database design and management.
