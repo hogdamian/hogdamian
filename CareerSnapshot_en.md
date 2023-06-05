@@ -4,8 +4,6 @@ Hi, I'm Damian Hog, a Fullstack Developer based in Freiburg im Breisgau.
 
 ## 📝 Contact Data 
 - Name: Damian Hog
-- Address: xxxxxx
-- Date of birth: xxxxxx
 - Email: mail@damianhog.com
 
 ## 💻 Areas of Expertise
