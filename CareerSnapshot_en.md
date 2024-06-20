@@ -5,21 +5,72 @@ Hi, I'm Damian Hog, a Fullstack Developer based in Freiburg im Breisgau.
 ## 📝 Contact Data 
 - Name: Damian Hog
 - Email: mail@damianhog.com
-
+- Phone: +49 175 95 414 53
+  
 ## 💻 Areas of Expertise
 - Frontend (Flutter, WPF)
 - Backend (Node.js, C#)
 - Microservice architecture
 - API design and implementation
 - DevOps and continuous integration/delivery
-- Docker administration
+- Kubernetes
+- Docker 
+- Cloud Architecture
 
 ## 🚀 Work Experience
 
-### 12.2021 - CURRENT
+### 01.2024 - Current
 #### S. Siedle & Söhne Telefon- und Telegrafenwerke OHG
-**Fullstack Software Developer, Dec 2021 - Current**
-- Designed and implemented scalable microservice-based architecture, resulting in a 60% increase in system performance.
+**Lead Fullstack Software Developer (Self-Employed)**
+- Led the quality assurance and full software development lifecycle for Siedle Touch 10, enhancing overall product reliability.
+- Spearheaded the transition from Flutter to Flutter-embedded, significantly improving user interface fluidity and responsiveness.
+- Optimized and expanded the CI/CD pipeline for native builds, automating the creation of .deb packages, reducing deployment times.
+- Drove the development of Siedle Touch 5, implementing cutting-edge features and ensuring seamless integration with existing systems.
+
+Technologies Used:
+- Flutter
+- Flutter for embedding flutter natively on cm4 processor
+- Pipeline DevOps for native builds
+- Backend development in Node.js
+
+### 08.2023 - Current
+#### Self-Employed
+**Fullstack Software Developer (Self-Employed)**
+- Orchestrated the management of a large-scale platform landscape, overseeing both infrastructure and backend development to ensure optimal performance.
+- Transformed the cloud architecture from AWS ECS to a dedicated AWS EKS K8S cluster, improving scalability and reliability.
+- Centralized administration across multiple platforms through the development of an intermediary proxy service, built with Node.js, streamlining operations.
+- Executed a seamless migration from GitHub to GitLab, establishing a robust CI/CD pipeline that increased development efficiency.
+- Upgraded the C# backend from .NET 5 to .NET 8, enhancing system performance and security.
+- Conducted in-depth infrastructure analysis using Grafana, implementing optimizations that significantly reduced resource consumption.
+- Delivered new features in the React frontend, enhancing user engagement and experience.
+- Developed a .NET Worker with RabbitMQ for scheduled tasks, ensuring data health and operational efficiency in the database.
+  
+Technologies Used:
+- AWS
+- Kubernetes
+- C#
+- Node.js
+- React
+
+---
+### 07.2023 - 09.2023
+#### 360° Evolution GmbH
+**Fullstack Software Developer & Consulting (Self-Employed)**
+- Engineered and designed two high-impact WordPress plugins, driving client engagement and automating processes.
+- Developed a plugin to dynamically display job postings from an HR tool in WordPress, significantly improving recruitment workflows.
+- Created a plugin to synchronize a TypeForms API with an HR tool, streamlining data integration and process automation.
+
+Technologies Used:
+- PHP
+- REST-API
+- Wordpress
+- Javascript
+
+---
+### 12.2021 - 12.2023
+#### S. Siedle & Söhne Telefon- und Telegrafenwerke OHG
+**Fullstack Software Developer**
+- Designed and implemented scalable microservice-based architecture, resulting increase in system performance.
 - Developed and deployed frontend applications using Flutter, delivering an enhanced user experience.
 - Automated deployment and testing processes using GitLab CI, reducing the time for each release by 40%.
 
