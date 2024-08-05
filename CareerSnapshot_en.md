@@ -15,23 +15,9 @@ Hi, I'm Damian Hog, a Fullstack Developer based in Freiburg im Breisgau.
 - DevOps and continuous integration/delivery
 - Kubernetes
 - Docker 
-- Cloud Architecture
+- Cloud Architecture AWS
 
 ## 🚀 Work Experience
-
-### 01.2024 - Current
-#### S. Siedle & Söhne Telefon- und Telegrafenwerke OHG
-**Lead Fullstack Software Developer (Self-Employed)**
-- Led the quality assurance and full software development lifecycle for Siedle Touch 10, enhancing overall product reliability.
-- Spearheaded the transition from Flutter to Flutter-embedded, significantly improving user interface fluidity and responsiveness.
-- Optimized and expanded the CI/CD pipeline for native builds, automating the creation of .deb packages, reducing deployment times.
-- Drove the development of Siedle Touch 5, implementing cutting-edge features and ensuring seamless integration with existing systems.
-
-Technologies Used:
-- Flutter
-- Flutter for embedding flutter natively on cm4 processor
-- Pipeline DevOps for native builds
-- Backend development in Node.js
 
 ### 08.2023 - Current
 #### Self-Employed
@@ -51,6 +37,20 @@ Technologies Used:
 - C#
 - Node.js
 - React
+
+### 01.2024 - 07.2024
+#### S. Siedle & Söhne Telefon- und Telegrafenwerke OHG
+**Lead Fullstack Software Developer (Self-Employed)**
+- Led the quality assurance and full software development lifecycle for Siedle Touch 10, enhancing overall product reliability.
+- Spearheaded the transition from Flutter to Flutter-embedded, significantly improving user interface fluidity and responsiveness.
+- Optimized and expanded the CI/CD pipeline for native builds, automating the creation of .deb packages, reducing deployment times.
+- Drove the development of Siedle Touch 5, implementing cutting-edge features and ensuring seamless integration with existing systems.
+
+Technologies Used:
+- Flutter
+- Flutter for embedding flutter natively on cm4 processor
+- Pipeline DevOps for native builds
+- Backend development in Node.js
 
 ---
 ### 07.2023 - 09.2023
