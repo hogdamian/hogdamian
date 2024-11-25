@@ -1,7 +1,5 @@
 # 💼 Damian Hog
 
-Hi, I'm Damian Hog, a Fullstack Developer based in Freiburg im Breisgau. 
-
 ## 📝 Contact Data 
 - Name: Damian Hog
 - Email: mail@damianhog.com
@@ -37,6 +35,11 @@ Technologies Used:
 - C#
 - Node.js
 - React
+
+### 10.2021 - Current
+# Minijob - SC Freiburg VIP Hospitality Team
+**Event Staff**
+- Providing excellent customer service to VIP guests during events and matches.
 
 ### 01.2024 - 07.2024
 #### S. Siedle & Söhne Telefon- und Telegrafenwerke OHG
@@ -126,9 +129,25 @@ Technologies Used:
 - Software Documentation
 
 ---
+
+## 🎓 Education
+#### 02.2023 - Current
+Wilhelm Büchner University of Applied Sciences, Darmstadt
+B.Sc. in Computer Science (Remote Study Program)
+
+#### 09.2018 - 09.2021
+Richard-Fehrenbach School, Freiburg
+Technical High School Diploma (Fachabitur, Evening School)
+
+#### 09.2018 - 09.2021
+Walter-Rathenau School, Freiburg
+IT Specialist (Berufsschule Fachinformatiker)
+
 ## 🎓 Certificates
 - Project Management
 - CompTIA Network+
+- AZ-900
+- MS-900
 
 ---
 ## 📱 Links
