@@ -37,7 +37,7 @@ Technologies Used:
 - React
 
 ### 10.2021 - Current
-# Minijob - SC Freiburg VIP Hospitality Team
+#### Minijob - SC Freiburg VIP Hospitality Team
 **Event Staff**
 - Providing excellent customer service to VIP guests during events and matches.
 
